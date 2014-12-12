@@ -1,5 +1,3 @@
-// mai trebuie facut *,/,% 5456
-
 #include<iostream>
 #include<ctime>
 #include<cstdlib>
