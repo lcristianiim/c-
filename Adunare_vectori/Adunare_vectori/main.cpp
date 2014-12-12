@@ -6,9 +6,6 @@
 
 using namespace std;
 
-
-
-
 //Main program
 int main()
 {
